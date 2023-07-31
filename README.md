@@ -20,7 +20,7 @@ The project is open-source and welcomes all contributions. To contribute, follow
 4. Your changes will be reviewed and integrated into the main project.
 
 ### Getting Started
-To play the game or contribute, visit the following link: [Experience the Game](https://scergun.github.io/Tic-Tac-Toe-Lo-Fi/)
+To play the game or contribute, visit the following link: [Experience the Game](https://scergun.github.io/Tic-Tac-Toe-Lo-Fi/](https://scergun.github.io/Tic-Tac-Toe-Lo-Fi-Edition/)
 
 ### Screenshot
 ![image](https://i.imgur.com/uaXAA6v.png)
